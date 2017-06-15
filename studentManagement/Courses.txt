@@ -1,0 +1,22 @@
+215 Ds 4 PG COE 2 core
+214 Algo 4 PG COE 2 core
+213 Maths 4 PG COE 2 core
+212 Cso 4 PG COE 2 elective
+211 Micro 4 PG COE 2 elective
+311 Micr 4 PG COE 1 core
+312 Iome 4 PG COE 1 core
+313 Pom 4 PG COE 1 core
+314 Aca 4 PG COE 1 elective
+315 Cntrl 4 PG COE 1 elective
+315 Lab 4 PG COE 1 core
+301 Mic 4 UG COE 1 core
+302 Elec 4 UG COE 1 elective
+147 Selc 4 UG ICE 8 core
+148 Telc 4 UG ICE 8 core
+149 Belc 4 UG ICE 8 core
+150 Heat 4 UG ICE 8 elective
+151 Sound 4 UG ICE 8 elective
+111 Cats 4 UG ECE 5 core
+112 Dogs 4 UG ECE 5 core
+113 Fish 4 UG ECE 5 elective
+
